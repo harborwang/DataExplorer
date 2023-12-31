@@ -1,3 +1,6 @@
+# Hao's notes: 
+
+I can use some functions in this package to write my own functions and package. 
 
 # DataExplorer <img src="man/figures/logo.png" align="right" width="130" height="150"/>
 
